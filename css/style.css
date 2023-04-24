@@ -13,9 +13,9 @@
    * 
    * デフォルトではデバイスフォントを指定しています
    */
-  --font-family-heading: "Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
-  --font-family-price: "Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
-  --font-family-body: "Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
+  --font-family-heading: "FOT-筑紫AMゴシックL Std B","Hiragino Sans",Meiryo,sans-serif;
+  --font-family-price: "FOT-筑紫オールドゴシック Std B","Hiragino Sans",Meiryo,sans-serif;
+  --font-family-body: "FOT-マティス Pro M","Hiragino Sans",Meiryo,sans-serif;
 
   /* Color scale */
   --black-800: #222222;
